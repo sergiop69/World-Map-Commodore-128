@@ -1,2 +1,6 @@
 # World-Map-Commodore-128
 It's a world map in Basic 7.0, 40 columns for Commodore 128 
+I saw tons of world maps for BBC, ZX Spectrums, etc, but nobody ever did one for C128.
+So, I took the challenge to do it. 
+Here, you'll find a paraguayan map too. 
+The world map took me 1 day to finish. 
